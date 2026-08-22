@@ -7,6 +7,12 @@ This project analyzes 12 months of Cyclistic bike-share trip data to identify th
 The analysis was completed as part of the Google Data Analytics Professional Certificate Capstone Project.
 
 Using SQL (Google BigQuery), over 5.9 million ride records were cleaned, transformed, and analyzed. The findings were then visualized using Tableau through interactive dashboards to support business recommendations.
+
+Using SQL (Google BigQuery), over 5.9 million ride records were cleaned, transformed, and analyzed. The findings were then visualized using Tableau through interactive dashboards to support business recommendations.
+
+📄 **[View Full Case Study (PDF)](documentation/Cyclistic_Bike_Share_Analysis_Final.pdf)**
+
+---
 ---
 
 ## 🎯 Business Task
@@ -45,7 +51,8 @@ Cyclistic-Bike-Share-Analysis/
 │   └── Cyclistic Bike Share Analysis.twbx
 ├── images/
 └── documentation/
-    └── Cyclistic Case Study.pdf
+    ├── Cyclistic_Bike_Share_Analysis_Final.pdf
+    └── Cyclistic_Bike_Share_Analysis_Final.docx
 ---
 
 ## 📌 Project Files
@@ -53,7 +60,7 @@ Cyclistic-Bike-Share-Analysis/
 - 📄 README.md – Project documentation
 - 🗄️ sql/cyclistic_analysis.sql – SQL queries used for data preparation and analysis
 - 📊 tableau/Cyclistic Bike Share Analysis.twbx – Tableau workbook
-- 📑 documentation/Cyclistic Case Study.pdf – Complete case study
+- 📑 [Cyclistic Bike-Share Analysis – Full Case Study (PDF)](documentation/Cyclistic_Bike_Share_Analysis_Final.pdf) – Complete case study
 --- 
 
 ## 🧹 Data Preparation & SQL Analysis
