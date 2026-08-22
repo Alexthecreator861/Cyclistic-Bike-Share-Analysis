@@ -8,8 +8,6 @@ The analysis was completed as part of the Google Data Analytics Professional Cer
 
 Using SQL (Google BigQuery), over 5.9 million ride records were cleaned, transformed, and analyzed. The findings were then visualized using Tableau through interactive dashboards to support business recommendations.
 
-Using SQL (Google BigQuery), over 5.9 million ride records were cleaned, transformed, and analyzed. The findings were then visualized using Tableau through interactive dashboards to support business recommendations.
-
 📄 **[View Full Case Study (PDF)](documentation/Cyclistic_Bike_Share_Analysis_Final.pdf)**
 
 ---
